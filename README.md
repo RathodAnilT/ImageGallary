@@ -6,3 +6,4 @@
 - Lightbox Feature: Introduce a lightbox effect for viewing images in a larger format with smooth transitions and controls for navigating between images.
 - Dynamic Image Addition: Develop a feature that allows users to upload and add new images directly to the gallery.
 - Animations: Enhance the user experience with subtle animations, such as hover effects, image transitions, or zoom effects on image click.
+- Backend Integration: Implement backend support to store images and metadata in a database, allowing for more advanced features like user authentication, image sharing, and comments.
