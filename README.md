@@ -8,3 +8,4 @@
 - Animations: Enhance the user experience with subtle animations, such as hover effects, image transitions, or zoom effects on image click.
 - Backend Integration: Implement backend support to store images and metadata in a database, allowing for more advanced features like user authentication, image sharing, and comments.
 - Dark Mode: Provide a dark mode toggle for users who prefer a darker color scheme while browsing the gallery.
+- Accessibility Improvements: Ensure the gallery is fully accessible to all users by improving keyboard navigation, adding alt text for images, and adhering to ARIA standards.
