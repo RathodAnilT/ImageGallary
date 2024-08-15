@@ -7,3 +7,4 @@
 - Dynamic Image Addition: Develop a feature that allows users to upload and add new images directly to the gallery.
 - Animations: Enhance the user experience with subtle animations, such as hover effects, image transitions, or zoom effects on image click.
 - Backend Integration: Implement backend support to store images and metadata in a database, allowing for more advanced features like user authentication, image sharing, and comments.
+- Dark Mode: Provide a dark mode toggle for users who prefer a darker color scheme while browsing the gallery.
